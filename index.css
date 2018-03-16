@@ -1,0 +1,51 @@
+.flex1{
+	width: 100px;
+	height: 100px;
+	background-color: #FF0218;
+	border: solid;
+	border-width: 5px;
+	border-style: #0256cd;
+}
+
+.flex2{
+	width: 100px;
+	height: 100px;
+	background-color: #F8C473;
+	border: solid;
+	border-width: 5px;
+	border-style: #0256cd;
+}
+
+.flex3{
+	width: 100px;
+	height: 100px;
+	background-color: #5C3E90;
+	border: solid;
+	border-width: 5px;
+	border-style: #0256cd;
+}
+
+.flex4{
+	width: 100px;
+	height: 100px;
+	background-color: #4A2885;
+	border: solid;
+	border-width: 5px;
+	border-style: #0256cd;
+}
+
+div{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+ul{
+	display: flex;
+	justify-content: center;
+	list-style: none;
+
+}
+li{
+	margin: 10px;
+}
